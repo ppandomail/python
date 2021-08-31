@@ -9,4 +9,4 @@ def encriptar(mensaje, desplazamiento):
     return encriptado
 
 
-print(encriptar("HOLAWXY", 2))  # JQNCYZA
+print(encriptar("HOLAWXY", 4))  # JQNCYZA
