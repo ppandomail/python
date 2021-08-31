@@ -1,4 +1,4 @@
-from Punto import Punto
+from punto import Punto
 
 
 class Punto3D(Punto):
