@@ -6,7 +6,7 @@ import time
 class MyTestCase(unittest.TestCase):
 
     def test_no_results(self):
-        driver = webdriver.Chrome('/Users/ppando/PycharmProjects/Selenium/chromedriver')
+        driver = webdriver.Chrome('/Users/ppando/PycharmProjects/proy_python/Selenium/chromedriver')
         driver.get('http://automationpractice.com/index.php')
         driver.find_element_by_id('search_query_top').send_keys('Hola')
         driver.find_element_by_name('submit_search').click()
