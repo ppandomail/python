@@ -89,7 +89,3 @@ df = pd.read_csv('/Users/ppando/Materias/python/proy/pandas_datos2.csv')
 print(df.duplicated())  # devuelve un bool para cada fila (True para cada fila que sea un duplicado)
 df = df.drop_duplicates()
 print(df.duplicated())
-
-
-
-
