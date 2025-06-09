@@ -12,19 +12,6 @@
       print(elem)
   ```
 
-* **os**: interfaz con el SO
-
-  ```py
-  import os
-
-  print(os.environ)        # Lista de variables de entorno
-  print(os.getenv('PATH')) # Valor de variable de entorno
-  print(os.sep)            # Separador. Ejemplo: /
-  print(os.getcwd())       # Directorio de trabajo
-
-  os.remove('main.py')     # Elimina archivo
-  ```
-
 * **io**: funciones para manejo de flujo de datos y archivos
   
 * **datetime**: funciones para fechas y tiempos
@@ -187,6 +174,7 @@ pip install <nom-lib>
 * **pytest**: testing
 * **pytest-bdd**: comportamiento
 * **allure-pytest**: reporting
+  
 * **scipy**: funciones matemáticas y estadísticas para aplicaciones científicas
 * **scikit-learn**: algoritmos de ML
 * **tensorflow**: algoritmos de ML y aprendizaje profundo
