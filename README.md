@@ -24,6 +24,7 @@
 | 03.d  | [Pandas - Analyzing](doc/04_pandas_04_analyzing.ipynb)                    |
 | 04.a  | [Pandas - Cleaning](doc/04_pandas_05_cleaning.ipynb)                      |
 | 04.b  | [Pandas - Visualization](doc/04_pandas_06_visualization_matplotlib.ipynb) |
+| 05.a  | [Web scraping](doc/05_webscraping.ipynb)|
 
 ## Bibliografía
 
